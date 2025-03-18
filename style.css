@@ -1,13 +1,13 @@
 html {
   height: 100%;
   width: 100%;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Harrington","Baskerville Old Face";
 }
 
 body {
   min-height: 100%;
   min-width: 100%;
-  background: linear-gradient(pink, violet);
+  background: linear-gradient(rgb(0, 159, 130), rgb(0, 72, 101));
 }
 
 button {
